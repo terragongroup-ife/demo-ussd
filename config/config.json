@@ -1,0 +1,12 @@
+{
+    "responses": {
+        "baseUrlResponse" :  "This is an ussd app that conducts a simple survey",
+        "noReqString" : "CON  do you prefer rice to beans \n 1. yes \n 2. no ",
+        "one" :"CON which one do you prefer?  \n 1. white rice and stew \n 2. jollof rice  \n  3. fried rice",
+        "two":"CON What do you like your beans with?\n 1. plantain \n 2. bread",
+        "one*one":" CON do you like it with plantain, beans and chicken? \n 1. none of the above\n 2. plantain and chicken \n 3. beans and chicken\n 4. plantain beans and chicken",
+        "one*two ":"CON do you like it with coleslaw and chicken? \n 1. none of the above \n2. coleslaw and chicken    \n 3. just chicken ",
+        "one*three":"CON do you like it with coleslaw, jollof rice and chicken? \n 1. none of the above \n 2. coleslaw and chicken \n 3. just chicken \n 4. jollof rice and chicken \n 5. all of the above",
+        "one*two*one": "END thank you for your input."
+         }
+}
